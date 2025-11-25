@@ -1,6 +1,6 @@
 # 🚀 Sabey Corporation: AI Innovation Hub
 
-![Sabey Corp Logo](https://example.com/sabey-logo.png)
+![Sabey Corp Logo](RGB_Sabey-White.png)
 
 ## Welcome to the Future of AI Collaboration
 
